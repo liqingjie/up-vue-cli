@@ -1,0 +1,19 @@
+{
+  "name": "up-vue-cli",
+  "version": "1.2.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "up-vue": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "colors": "^1.4.0",
+    "commander": "^4.0.1"
+  }
+}
